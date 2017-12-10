@@ -1,4 +1,4 @@
-Merry-Hollies [merry_hollies]
+Merry-Hollies [merry-hollies]
 =============================
 Licensing
 ---------
