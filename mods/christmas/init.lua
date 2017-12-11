@@ -12,6 +12,8 @@ minetest.register_node('christmas:present_' ..material, {
 	drawtype = 'mesh',
 	mesh = 'present.obj',
 	tiles = {'green_'..material..'.png'},
+	visual_scale = 0.5,
+	wield_scale = {x=1.0, y=1.0, z=1.0},
 	groups = {choppy=2,oddly_breakable_by_hand=2, flammable=1},
 	paramtype = 'light',
 	paramtype2 = 'facedir',
